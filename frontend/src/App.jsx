@@ -34,7 +34,8 @@ const ChatAssistant = ({ topic }) => {
     setInput('');
 
     try {
-      const resp = await axios.post('/api/chat', {
+      const API_BASE = import.meta.env.VITE_API_BASE_URL || '';
+      const resp = await axios.post(`${API_BASE}/api/chat`, {
         topic: topic,
         message: input
       });
@@ -131,7 +132,8 @@ const App = () => {
     formData.append('level', config.level);
 
     try {
-      const resp = await axios.post('/api/analyze', formData);
+      const API_BASE = import.meta.env.VITE_API_BASE_URL || '';
+      const resp = await axios.post(`${API_BASE}/api/analyze`, formData);
       setResult(resp.data);
       playSound('success');
     } catch (err) {
