@@ -1,0 +1,5 @@
+UNIT I: Introduction to Underwater Acoustics (9 hours): Covers sound propagation in ocean water, thermoclines, sound velocity profiles (SVP) in deep/shallow water, sound attenuation (absorption, scattering, reverberation), and Snell's law. Includes laser communication.
+UNIT II: Underwater Navigation & Aiding Sensors (9 hours): Details navigational sensors including accelerometers, Fiber Optic Gyroscopes (FOGs), and Ring Laser Gyroscopes (RLG), along with Attitude Heading and Reference Systems (AHRS), IMU, Doppler Velocity Log, and calibration methods.
+UNIT III: Acoustic Positioning Systems (9 hours): Covers vehicle positioning techniques: Short Base Line (SBL), Super Short Base Line (SSBL), and Long Base Line (LBL) configurations and operating principles.
+UNIT IV: Subsea Vehicle Navigation (9 hours): Focuses on underwater navigation solutions, challenges, and types, covering aided navigation systems and Inertial Navigational systems.
+UNIT V: Operational Planning and Deployment (9 hours): Focuses on tethered vehicle deployment, AUV/ROV search operations, data acquisition, and acoustic transponder recovery. 

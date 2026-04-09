@@ -1,0 +1,32 @@
+UNIT I: INTRODUCTION TO ARTIFICIAL INTELLIGENCE
+History of AI
+Foundations of AI
+Intelligent Agents
+Structure of Agents
+
+UNIT II: SEARCH AND PROBLEM SOLVING
+Heuristic Search
+Generic Search Algorithms
+Uninformed Search (BFS, DFS)
+A* Search
+Constraint Satisfaction Problems
+
+UNIT III: KNOWLEDGE REPRESENTATION
+Propositional Logic
+First Order Logic
+Inference Rules
+Bayesian Networks
+Probability Basics
+
+UNIT IV: MACHINE LEARNING
+Supervised Learning
+Unsupervised Learning
+Decision Trees
+Neural Networks Basics
+Backpropagation Algorithm
+
+UNIT V: ADVANCED TOPICS
+Deep Learning Overview
+Reinforcement Learning
+Ethical issues in AI
+Future of AI
